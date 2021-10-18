@@ -1,6 +1,7 @@
 Repro
 
-When installing a package from an url, pnpm creates a directory containing 
+When installing a package from an url, pnpm creates a directory using url character like `?` that will fail with many resolve implementations like `enhanced-resolve`
+
 
 To reproduce
 ```
