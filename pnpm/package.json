@@ -1,0 +1,15 @@
+{
+  "name": "pnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tommaso De Rossi, morse <beats.by.morse@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@genql/runtime": "https://gitpkg.now.sh/remorses/genql/runtime?4e431e1a6e2cea513cad91614f3a9ef794f94d07"
+  }
+}
